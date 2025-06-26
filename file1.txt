@@ -1,4 +1,8 @@
 Hello
+<<<<<<< HEAD
 Update 2
 Update 3
 Update 4
+=======
+Update 2
+>>>>>>> parent of 2f59c5e (udah update)
